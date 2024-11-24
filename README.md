@@ -56,6 +56,43 @@ Clearly define and document the roles and responsibilities within the project te
 ### Contribution to Project Success  
 Each role is vital to the project’s success by promoting collaboration, ensuring open communication, upholding quality standards, and adapting to evolving requirements and feedback.  
 
+## UI Component Patterns  
+
+### Objective  
+Explore and outline the UI components required for the Airbnb Clone project.  
+
+### Components to Create  
+
+1. **Navbar**  
+   - Serves as the primary navigation tool for the application.  
+   - Includes links to essential sections such as property listings, user accounts, and the help center.  
+   - Features a responsive design that adapts to various screen sizes.  
+   - Contains a search bar for quick property searches.  
+
+2. **Property Card**  
+   - Displays key details about each property, including:  
+     - Image  
+     - Title  
+     - Price per night  
+     - Brief description  
+   - Includes a clickable link to the property's detailed view.  
+   - Focuses on clarity and aesthetic design to drive user engagement.  
+
+3. **Footer**  
+   - Provides links to essential information, including:  
+     - Terms of service  
+     - Privacy policy  
+     - Contact details  
+   - Features social media icons for connecting with the brand.  
+   - Maintains a consistent appearance across all pages, offering a sense of completion to the content.  
+
+### Additional Components  
+As the project progresses, more components may be added, such as:  
+- **Booking Form:** To facilitate reservation processes.  
+- **User Profile Section:** For personalized user experiences.  
+- **Review Section:** Allowing users to leave feedback and view property ratings.  
+
+
 
 
 

@@ -33,7 +33,29 @@ A user-friendly design is essential for a booking system, as it:
 - **Reduces Abandonment Rates:** Simplifies the booking process, minimizing frustration and preventing users from abandoning their bookings.  
 - **Increases Conversion Rates:** Guides users effectively through the booking journey, boosting completed transactions.  
 - **Builds Trust:** Creates a polished and professional appearance that instills confidence in users.  
-- **Ensures Accessibility:** Makes the platform inclusive and easy to navigate for all users, broadening its reach.  
+- **Ensures Accessibility:** Makes the platform inclusive and easy to navigate for all users, broadening its reach.
+
+## Project Roles and Responsibilities  
+
+### Objective  
+Clearly define and document the roles and responsibilities within the project team.  
+
+### Roles and Responsibilities  
+
+| Role               | Description                                           | Key Responsibilities                                                                                   |
+|--------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees the project from start to finish.            | Plans and defines scope, manages timelines and budgets, facilitates communication, and ensures project goals are achieved. |
+| **Frontend Developers** | Handle the visual and interactive elements of the application. | Create user interfaces with HTML, CSS, and JavaScript, collaborate on UI/UX designs, and ensure responsiveness and compatibility. |
+| **Backend Developers** | Manage server-side functionality and database operations. | Develop server logic, maintain databases, implement APIs, and ensure data security and seamless frontend integration. |
+| **Designers**        | Shape the visual identity and user experience.        | Design wireframes, prototypes, and mockups, conduct user research, and work closely with developers to ensure design consistency. |
+| **QA/Testers**       | Maintain application quality through comprehensive testing. | Create and execute test cases, identify bugs, verify fixes, and ensure the product meets quality standards. |
+| **DevOps Engineers**  | Optimize deployment processes and system reliability. | Automate CI/CD pipelines, manage infrastructure, monitor system performance, and ensure scalability and uptime. |
+| **Product Owner**     | Prioritize and align the project with business needs. | Define product vision, manage the backlog, prioritize features, and serve as a bridge between stakeholders and the team. |
+| **Scrum Master**      | Guide the team in Agile practices and ensure smooth workflows. | Facilitate Scrum ceremonies, resolve blockers, and coach the team on Agile methodologies. |
+
+### Contribution to Project Success  
+Each role is vital to the project’s success by promoting collaboration, ensuring open communication, upholding quality standards, and adapting to evolving requirements and feedback.  
+
 
 
 
